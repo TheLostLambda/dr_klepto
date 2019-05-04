@@ -1,6 +1,6 @@
 # Dr. Klepto
 
-_See it. Swing it. Take it._
+_See it. Swing it. Steal it._
 
 ## Game Ideas
 * The game's main character, Dr. Klepto, is a Dr. Octopus sort of character with a backpack of many arms that he uses to swing through the game's environment.
